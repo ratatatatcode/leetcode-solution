@@ -1,0 +1,2 @@
+# leetcode-solution
+Learning record
